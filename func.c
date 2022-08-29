@@ -14,3 +14,9 @@ void print_my_age(void)
 	
 	return 0;
 }
+void print_my_college(void)
+{
+	printf("My college is EGI\n");
+	
+	return 0;
+}
