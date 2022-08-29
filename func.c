@@ -7,3 +7,10 @@ void print_my_name(void)
 	
 	return 0;
 }
+
+void print_my_age(void)
+{
+	printf("My age is 22\n");
+	
+	return 0;
+}
