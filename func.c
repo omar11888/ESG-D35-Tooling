@@ -20,3 +20,9 @@ void print_my_college(void)
 	
 	return 0;
 }
+void print_my_faculty(void)
+{
+	printf("My faculty is Engineering\n");
+	
+	return 0;
+}
